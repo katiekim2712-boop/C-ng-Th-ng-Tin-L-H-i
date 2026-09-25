@@ -1,0 +1,6 @@
+{
+  "name": "Cổng thông tin Lễ hội Vũng Tàu",
+  "description": "Nền tảng số văn hóa du lịch khám phá và trải nghiệm các lễ hội truyền thống đặc sắc tại Vũng Tàu, Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
